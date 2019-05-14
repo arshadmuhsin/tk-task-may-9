@@ -1,0 +1,54 @@
+/* Write your CSS below. Try to make it responsive (i.e. no horizontal scroll) */
+img{
+    float: left;
+
+
+}
+h1{
+    
+}
+button{
+    background-color: #ec4b75;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+}
+*{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.adj{
+    margin-top: 300px;
+}
+.img{
+    height: 50px;
+    width: 150px;
+    float: left;
+}
+
+.nav{
+    float: right;
+    
+        }
+    .nav ul{
+        margin:0;
+        padding:0;
+        list-style:none;}
+    .nav ul li{
+        display:inline-block;}
+    .nav ul li a{
+        font-weight: bold
+        font-size:13px;
+        display:block;
+        padding:30px;
+        text-decoration:none;
+        color:#3F3F3F;
+        line-height:20px;
+        }		
+        section{
+            padding: 60px;
+        }	
+        .side{
+            padding:  0 200px 0 400px;
+            margin-left:200px;
+        }	
+    
